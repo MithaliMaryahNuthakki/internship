@@ -1,0 +1,57 @@
+.nav-right a {
+  color: white !important;
+  float: right;
+  margin-right: 5px;
+  font-size: 16px;
+}
+.Nav-background {
+  background-color: #33414f;
+  color: rgb(235, 103, 103);
+}
+.brandName {
+  color: white !important;
+  text-decoration: none;
+}
+.right {
+  margin-left: 60%;
+}
+.nav-link {
+  padding: 20px;
+  text-decoration: none;
+  margin-right: 50px;
+}
+
+.btn-grad {
+  background-image: linear-gradient(
+    to right,
+    #f09819 0%,
+    #edde5d 51%,
+    #f09819 100%
+  );
+}
+.btn-grad {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  height: 50px;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+.story-container {
+  background-color: rgba(249, 255, 192, 0.5);
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 50px;
+  padding: 40px;
+}
